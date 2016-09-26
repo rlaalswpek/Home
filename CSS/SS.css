@@ -1,0 +1,43 @@
+*{margin: 0; padding: 0; list-style: none;}
+
+#wrap {width: 1000px; height: 2050px; margin: 0 auto;
+    border-left : none; border-right: none;}
+body {background-image: url(../images/DSDSD.PNG); background-repeat: no-repeat; background-size: cover;}
+.top {width: 461px; height: 80px; float: right;}
+.top > ul {width: 461px; height: 20px; overflow: hidden; float: right; text-align: center; list-style: none; text-align: center; padding-top: 40px; font-size: 14px;}
+.top > ul > li {width: 80px; height: 20px; float: left;}
+.top > ul > li:nth-child(1) {width: 180px;}
+.top > ul > li:nth-child(2) {width: 106px;}
+.logo {float: left; 80px; width: 200px; height: 50px; padding-top: 7px;}
+.logotitle {width: 200px; height: 70px; margin-top: 80px;position: absolute;}
+.line {width: 735px; border: 2px solid black; float: right;}
+.a {width: 735px; height: 50px; background-color: none; margin-top: 20px; padding-top: 25px; margin: 0 auto;}
+.a > li {width: 104px; height: 41px; background-color: none; float: left; text-align: center; margin-left: 40px;}
+.a > li > h4 {text-align: left;}
+.menu {width: 735px; height: 200px; float: right;}
+.sectionWrap {width: 740px; height: 1450px; position : absolute; margin :  300px; left : 420px;}
+.secMenu {margin-left: 540px;}
+.secMenu > h1 {padding: 10px;}
+.field {margin: 15px 10px;}
+.box {width: 160px; height: 90px; margin-top: 32px; text-align: center; background-color: #f2f2f2; color: #6d6d6d; line-height: 80px; margin-bottom: 20px;}
+.secLine {margin-top: 18px; color: #e6e6e6; border-bottom: 3px solid #e6e6e6;}
+.koName {padding-top: 22px;}
+.enName {padding-top: 29px;}
+.bd {padding-top: 30px;}
+.id {padding-top: 22px;}
+.btn {width: 65px; height: 21px; text-align: center; margin-left: 10px;}
+.pw {padding-top: 12px;}
+.tel {padding-top: 14px;}
+.sms {padding-top: 18px;}
+.mail {padding-top: 20px;}
+.home {padding-top: 22px;}
+.homeNum {padding-top: 22px;}
+#hn {margin-left: 88px;}
+.dm {padding-top: 22px;}
+.com {padding-top: 30px;}
+.comki {padding-top: 15px;}
+.comName {padding-top: 20px;}
+.comMail {padding-top: 20px;}
+.comNum {padding-top: 20px;}
+#cn {margin-left: 88px;}
+.wd {padding-top: 20px;}
